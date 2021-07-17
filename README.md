@@ -15,12 +15,19 @@ Each project contains the following:
 # Camp General
 Listed below are resources for Tech-Talk's and a sample day structure that has been used successfully in the past for any given 6-hour camp. 
 ## General Day Structure
+
 9:00 - 10:15 - Group coding or technical activity
+
 10:15 - 10:30 - Snack
+
 10:30 - 12 - Individual work
+
 12-1:15 - Lunch and outdoor activity
+
 1:15 - 2:30 - Demonstrate work, continue coding
+
 2:30 - 3:00 Group game to end day 
+
 ## Tech Talk
 [Tech Talk List](https://github.com/rmslick/SummerCamps/blob/master/Tech-Talks.md)
 ## Contributing
