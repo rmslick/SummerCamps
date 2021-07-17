@@ -1,6 +1,6 @@
 
 # Summer Camps
-This repository contains generalized content for summer camps. 
+This repository contains generalized content for summer camps. For links to problem sets in other documents, simply add a link to the read me using the below as a template. Solutions to coding exercises and lists of links can be placed in subfolders. 
 
 "Don't panic."
 
