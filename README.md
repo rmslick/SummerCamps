@@ -22,7 +22,7 @@ Listed below are resources for Tech-Talk's and a sample day structure that has b
 1:15 - 2:30 - Demonstrate work, continue coding
 2:30 - 3:00 Group game to end day 
 ## Tech Talk
-(Tech Talk List)[https://github.com/rmslick/SummerCamps/blob/master/Tech-Talks.md]
+[Tech Talk List](https://github.com/rmslick/SummerCamps/blob/master/Tech-Talks.md)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
