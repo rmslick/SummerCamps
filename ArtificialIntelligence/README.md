@@ -14,9 +14,3 @@ Each project contains the following:
 3. **GroupLead**: 
 4. **Fun**: 
 5. **Notes**:  
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-### Questions or Comments:
-For questions on getting started, how to add changes or to acquire unsolicited opinions on early 2000's pop-punk, contact: rmslick@buffalo.edu
