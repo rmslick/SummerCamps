@@ -10,7 +10,6 @@ More advanced AI tools may be used with Google Colab has cloud-based dependency 
 ## Navigation Guide
 Each project contains the following:
 1. **CoreProblemSets**: [Worksheets](https://machinelearningforkids.co.uk/#!/worksheets)
-2. **TechTalks**: 
-3. **GroupLead**: 
-4. **Fun**: 
-5. **Notes**:  
+2. **GroupLead**: 
+3. **Fun**: 
+4. **Notes**:  

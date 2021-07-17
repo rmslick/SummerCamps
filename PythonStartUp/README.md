@@ -17,7 +17,6 @@ Each project contains the following:
 1. **CoreProblemSets**: 
 - [Problem Set](https://docs.google.com/document/d/1awE6PicsRMlULcffGtfmsUqNyyer7xgOqKY0zGyP_d8/edit?usp=sharing)
 - [Leader Board]()
-2. **TechTalks**: 
-3. **GroupLead**: 
-4. **Fun**: 
-5. **Notes**:  
+2. **GroupLead**: 
+3. **Fun**: 
+4. **Notes**:  
