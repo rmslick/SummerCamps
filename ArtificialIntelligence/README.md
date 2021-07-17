@@ -10,6 +10,6 @@ More advanced AI tools may be used with Google Colab has cloud-based dependency 
 ## Navigation Guide
 Each project contains the following:
 1. **CoreProblemSets**: [Worksheets](https://machinelearningforkids.co.uk/#!/worksheets)
-2. **GroupLead**: 
+2. **GroupLead**: [Interactive AI Games](https://github.com/Sploder12/Rise-Of-The-War-Machines)
 3. **Fun**: 
-4. **Notes**:  
+4. **Notes**:  [See here](https://github.com/rmslick/SummerCamps/blob/master/ArtificialIntelligence/Notes/Notes.md)
