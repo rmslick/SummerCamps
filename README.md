@@ -29,6 +29,8 @@ Listed below are resources for Tech-Talk's and a sample day structure that has b
 2:30 - 3:00 Group game to end day 
 
 ## Tech Talk
+A breather for you, fun for the kids. Here's a list of cool videos to put on that educate the students. Close out the video with optional interactive discussion.
+
 [Tech Talk List](https://github.com/rmslick/SummerCamps/blob/master/Tech-Talks.md)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
