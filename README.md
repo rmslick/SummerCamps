@@ -37,3 +37,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Questions or Comments:
 For questions on getting started, how to add changes or to acquire unsolicited opinions on early 2000's pop-punk, contact: rmslick@buffalo.edu
+
+### Special Thanks To Shaan Cehruvu for being not a boy in the summer of 2021
