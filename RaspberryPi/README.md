@@ -15,6 +15,7 @@ Each project contains the following:
 1. **CoreProblemSets**: 
 - [Problem Set and Leader Board (typed)](https://docs.google.com/spreadsheets/d/1yJvdcWyR22KB8DDCFCM4u7GAl92aKf_Xr3Bh2yXAyTI/edit?usp=sharing)
 - [Problem Set and Leader Board (scratch)](https://docs.google.com/spreadsheets/d/1clhPIK2yWIoqcrVwEozqiYm6611N0lVgb-l9kIjv4I4/edit?usp=sharing)
+- [Sense Hat Emulator](https://trinket.io/sense-hat)
 2. **GroupLead**: 
 3. **Fun**: 
 4. **Notes**:  
